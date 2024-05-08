@@ -1,6 +1,6 @@
 {
   "name": "eslint-angular-devneonix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Eslint config for Angular projects",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,13 @@
     "config",
     "styleguide"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jolveragq/eslint-angular-devneonix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jolveragq/eslint-angular-devneonix/issues"
+  },
   "peerDependencies": {
     "@angular-eslint/eslint-plugin": "~17.3.0",
     "@angular-eslint/eslint-plugin-template": "~17.3.0",
