@@ -26,7 +26,6 @@ module.exports = {
       "files": ["*.html"],
       "parser": "@angular-eslint/template-parser",
       "extends": [
-        "plugin:@nx/angular-template",
         "plugin:prettier/recommended",
         "./templates",
         "./html"
