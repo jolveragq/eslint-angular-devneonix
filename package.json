@@ -1,6 +1,6 @@
 {
   "name": "eslint-angular-devneonix",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Eslint config for Angular projects",
   "main": "index.js",
   "scripts": {
